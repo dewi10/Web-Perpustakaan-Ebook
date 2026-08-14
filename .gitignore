@@ -1,0 +1,28 @@
+# Private local configuration
+inc/koneksi.php
+
+# Uploaded files
+uploads/ebooks/*
+!uploads/ebooks/.gitkeep
+
+# Python cache
+tools/__pycache__/
+*.pyc
+
+# Office and CSV imports that may contain private data
+*.csv
+*.xls
+*.xlsx
+
+# Private SQL backups and migration work files
+*_backup*.sql
+tmp_*.sql
+import_*.sql
+renumber_ids_*.sql
+update_anggota_*.sql
+update_jumlah_*.sql
+add_ebook_menu_*.sql
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
