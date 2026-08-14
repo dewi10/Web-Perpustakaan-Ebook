@@ -33,11 +33,11 @@ Aplikasi perpustakaan berbasis PHP native dan MySQL/MariaDB untuk pengelolaan bu
 
 ## Screenshot
 
-### Halaman Login
+### Halaman Data Buku
 
 ![Halaman Login](ss1.jpeg)
 
-### Dashboard Aplikasi
+### Aplikasi Ebook
 
 ![Dashboard Aplikasi](ss2.jpeg)
 
